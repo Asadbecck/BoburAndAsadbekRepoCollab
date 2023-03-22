@@ -1,0 +1,315 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+#signIn {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #FFBE0B;
+    background: transparent;
+    border: 1px solid #FFBE0B;
+    border-radius: 10px;
+    padding: 7px 25px;
+    margin-right: 30px;
+
+
+}
+
+#progress-box{
+    animation: floatImageTwo 4s ease-in-out infinite;
+
+}
+@keyframes floatImageTwo {
+    0%{transform: translateX(0);}
+    50%{transform: translateX(-15px);}
+    100%{transform: translateX(0);}
+}
+
+#polygon{
+    animation: polygon 4s ease-in-out infinite;
+
+}
+@keyframes polygon {
+    0%{transform: translateX(0);}
+    50%{transform: translateX(-15px);}
+    100%{transform: translateX(0);}
+}
+
+#img-person{
+    animation: person 4s ease-in-out infinite;
+
+}
+@keyframes person {
+    0%{transform: translateY(0);}
+    50%{transform: translateY(-25px);}
+    100%{transform: translateY(0);}
+}
+
+#Try-free {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    color: #0E0E2C;
+    padding: 7px 25px;
+    background-color: #FFBE0B;
+    border-radius: 10px;
+    border: none;
+    margin-right: 100px;
+}
+
+#safity_box {
+    margin-left: 105px;
+    width: 300px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0.075em;
+    color: #3A86FF;
+    background: #172656;
+    padding: 5px;
+}
+
+#cube {
+    margin-left: -80px;
+}
+
+#mt-div {
+    margin-top: 160px;
+}
+
+#power-text {
+    margin-left: 105px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 62px;
+    color: #FFFFFF;
+}
+
+#info-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #868695;
+    margin: 30px 0px 70px 109px;
+}
+
+#input-box {
+    margin-left: 105px;
+    display: flex;
+    position: relative;
+}
+
+#email-adress {
+    padding: 0px 65px 0px;
+    /* position: absolute; */
+    width: 485.65px;
+    height: 68.94px;
+    border: 1px solid #626276;
+    border-radius: 18px;
+    background: transparent;
+    color: #626276;
+
+}
+
+#inp-text {
+    position: absolute;
+    font-family: 'Montserrat';
+    left: 30px;
+    top: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 180%;
+    color: #626276;
+}
+
+#inp-btn {
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    left: 380px;
+    top: 8px;
+    font-size: 16px;
+    /* text-align: center; */
+    color: #0E0E2C;
+    padding: 15px 27px;
+    background-color: #FFBE0B;
+    border-radius: 10px;
+    border: none;
+    margin-right: 100px;
+}
+
+
+#img-50 {
+    background-color: #3A86FF;
+    height: 25px;
+    width: 30px;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.child-box {
+    display: flex;
+}
+
+
+.check-box {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 100px 0px 100px;
+}
+
+.days {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+#images-parent-box {
+    position: relative;
+}
+
+#img-person {
+    position: absolute;
+    top: 50px;
+    width: 680px;
+    height: 680px;
+}
+
+#polygon {
+    position: absolute;
+    top: 100px;
+}
+
+#margaret-box {
+    position: absolute;
+    top: 630px;
+    width: 420px;
+    height: 110px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+#back-fon {
+    position: absolute;
+    bottom: 0.01px;
+    left: 30px;
+    width: 160px;
+    height: 160px;
+    background: #eb6f32;
+    border-radius: 5px;
+
+}
+
+#girl-img {
+    position: absolute;
+    bottom: 0.1px;
+    left: 8px;
+}
+
+#name-girl {
+    position: absolute;
+    bottom: 50px;
+    left: 210px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    color: #0E0E2C;
+}
+
+#watch-text {
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #838394;
+    bottom: 20px;
+    left: 210px;
+}
+
+#margaret-btn {
+    position: absolute;
+    bottom: 30px;
+    left: 395px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding: 0px 0px 6px 3px;
+    border: none;
+    background-color: #3A86FF;
+}
+
+#yellowLight {
+    position: absolute;
+    bottom: -140px;
+    left: 310px;
+}
+
+#blueLight {
+    position: absolute;
+    bottom: -300px;
+    left: 583px;
+}
+
+#progress-box {
+    position: absolute;
+    left: 520px;
+    top: 280px;
+    width: 180px;
+    height: 230px;
+    background: #FFFFFF;
+    box-shadow: -12px 13px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.df-progress {
+    text-align: center;
+}
+
+#progress {
+    font-family: 'Montserrat';
+    margin-top: 15px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #0E0E2C;
+}
+
+#plans {
+    margin-top: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    color: #838394;
+}
+
+#buy-plans {
+    background: #3A86FF;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    padding: 5px 10px ;
+}
+
+#panel{
+    margin-top: 20px;
+}

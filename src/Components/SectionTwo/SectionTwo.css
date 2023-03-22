@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+#safity_box_three {
+    margin-left: 105px;
+    width: 300px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0.075em;
+    color: #3A86FF;
+    background: #172656;
+    padding: 5px;
+    margin-top: 80px;
+}
+
+#creative {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    color: #FFFFFF;
+    margin: 10px 100px 30px 100px;
+}
+
+#motto {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    
+    color: #868695;
+    margin: 10px 170px 30px 100px;
+
+}
+
+#first-card{
+    margin-left: 30px;
+    width: 320px;
+    height: 220px;
+    border-radius: 10px;
+}
+
+#first-card:hover{
+    background: #1A1A3D;
+    transition: 0.5s;
+
+}
+
+
+#grow {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    color: #FFFFFF;
+    padding: 30px 10px 0px 10px;
+
+}
+
+#help {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 15px 14px;
+    color: #868695;
+}
+
+
+#Logo-box
+{
+    padding: 13px;
+    margin-top: 20px;
+    top: 10px;
+    width: 73.26px;
+    height: 66.28px;
+    background: #3E3125;
+    border-radius: 10px;
+    margin: -10px 10px ;
+}
+#Logo-box-two
+{
+    padding: 13px;
+    margin-top: 20px;
+    top: 10px;
+    width: 73.26px;
+    height: 66.28px;
+    background: #172656;
+    border-radius: 10px;
+    margin: -10px 10px ;
+}
+#Logo-box-three
+{
+    padding: 13px;
+    margin-top: 20px;
+    top: 10px;
+    width: 73.26px;
+    height: 66.28px;
+    background: #3E0B39;
+    border-radius: 10px;
+    margin: -10px 10px ;
+}
+#Logo-box-four
+{
+    padding: 13px;
+    margin-top: 20px;
+    top: 10px;
+    width: 73.26px;
+    height: 66.28px;
+    background: #3D1C25;
+    border-radius: 10px;
+    margin: -10px 10px ;
+}
+
+#card-box{
+    display: flex;
+    margin-top: 30px;
+}
+
+#logoTwo{
+    padding: 2px;
+}
+#logoThree{
+    padding: 5px 10px;
+}
+
+#logoFour{
+    padding: 6px 5px ;
+}

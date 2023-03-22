@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+#build {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    margin-top: 30px;
+    color: #FFFFFF;
+}
+
+#section-box {
+    width: 500px;
+    height: 400px;
+    margin: 200px 0px 0px 90px;
+}
+
+#safity_box_two {
+    width: 300px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0.075em;
+    color: #3A86FF;
+    background: #172656;
+    padding: 5px;
+}
+
+#number {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    color: #FFBE0B;
+}
+
+#Img_section{
+    animation: floatImage 4s ease-in-out infinite;
+
+}
+@keyframes floatImage {
+    0%{transform: translateY(0);}
+    50%{transform: translateY(-45px);}
+    100%{transform: translateY(0);}
+}
+
+
+
+
+
+
+#four_millions {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 130%;
+    color: #FB5607;
+}
+
+#products_sale_box{
+    display: flex;
+    margin-top: 50px;
+}
+
+#left-border{
+    border-left: 1px solid #626276;
+    height: 7   0px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#products_one{
+    width: 250px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+#products_two{
+    width: 250px;
+    height: 100px;
+    margin-left: 40px;
+}
