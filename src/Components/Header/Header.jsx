@@ -64,7 +64,7 @@ export default function Header() {
                     <Col xs={6}>
                         <div id='mt-div'>
                             <motion.div
-                                animate={{ rotate: rotate ? 10 : 0 }}
+                                animate={{ rotate: rotate ? 0 : 0 }}
                                 onMouseMove={() => {
                                     setRotate(!rotate);
                                 }}
