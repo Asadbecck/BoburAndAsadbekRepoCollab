@@ -40,7 +40,15 @@
         "fast":"Tez yuklash, past chiqish tezligi",
         "it":"O'quvchi bo'lishi uzoq vaqtdan beri tasdiqlangan haqiqatdir o'qilishi mumkin bo'lgan tarkib bilan chalg'itadi",
         "footer_h1":"Biz bilan bog'laning.",
-        "footer_p":"50 000 dan ortiq kompaniyalar bizning biznesimizga ishonishdi"
+        "footer_p":"50 000 dan ortiq kompaniyalar bizning biznesimizga ishonishdi",
+        "footer_li1":"Haqida",
+        "footer_li2":"Mahsulot",
+        "footer_li3":"Xizmat",
+        "footer_li4":"Aloqa",
+        "footer_input":"Xabarlaringizni yozing..",
+        "footer-button":"Boshlash"
+        
+
 
     }
 }

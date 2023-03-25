@@ -22,11 +22,11 @@ export default function Footer() {
             </Col>
             <Col xs={12}>
             <div className='footer_input_box'>
-                        <input className='footer_adress' type="text" placeholder="Type your messages.." />
-                        <button className="footer_button" >Get Started</button>
+                        <input className='footer_adress' type="text" placeholder={t("text.footer_input")} />
+                        <button className="footer_button" >{t("text.footer-button")}</button>
                         </div>
             </Col>
-           <Col xs={3}>
+           <Col xs={5}>
            <div className="footer_div">
 <img src={footer_img} alt="" />
             </div>
@@ -34,10 +34,10 @@ export default function Footer() {
            <Col xs={3}>
           <div className="footer_div2">
           <ul className="footer_ul">
-                <li>About</li>
-                <li>Product</li>
-                <li>Service</li>
-                <li>Contact</li>
+                <li>{t("text.footer_li1")}</li>
+                <li>{t("text.footer_li2")}</li>
+                <li>{t("text.footer_li3")}</li>
+                <li>{t("text.footer_li4")}</li>
 
 
             </ul>

@@ -1,82 +1,82 @@
-footer{
-    margin-top: 170px;
+footer {
+  margin-top: 170px;
 }
 
-.footer_h1{
-    font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 48px;
-line-height: 130%;
-text-align: center;
-color: #FFFFFF;
-
+.footer_h1 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 130%;
+  text-align: center;
+  color: #ffffff;
 }
 
-.footer_p{
-    font-family: 'Montserrat';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 180%;
-text-align: center;
-color: #868695;
+.footer_p {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 180%;
+  text-align: center;
+  color: #868695;
 }
 
-.footer_input_box{
-    display: flex;
-    position: relative;
-    justify-content: center;
+.footer_input_box {
+  display: flex;
+  position: relative;
+  justify-content: center;
 }
 
-.footer_adress{
-    padding: 0px 65px 0px;
-    /* position: absolute; */
-    width: 485.65px;
-    height: 68.94px;
-    border: 1px solid #626276;
-    border-radius: 18px;
-    background: transparent;
-    color: #626276;
+.footer_adress {
+  padding: 0px 65px 0px;
+  /* position: absolute; */
+  width: 485.65px;
+  height: 68.94px;
+  border: 1px solid #626276;
+  border-radius: 18px;
+  background: transparent;
+  color: #626276;
 }
 
-.footer_button{
-    height: 30px;
-    background: #FFBE0B;
-border-radius: 10px;
-/* padding: 3px; */
+.footer_button {
+  width: 126.03px;
+  height: 50.61px;
+  background: #ffbe0b;
+  border-radius: 10px;
+  margin-left: -150px;
+  margin-top: 10px;
+  /* padding: 3px; */
 }
 
-.footer_div{
-    margin-top: 200px;
+.footer_div {
+  margin-top: 200px;
 }
-.footer_div2{
-    margin-top: 200px;
-    /* display: flex; */
-}
-
-.footer_ul{
-    display: flex;
-    gap: 50px;
-    font-family: 'Montserrat';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 180%;
-/* identical to box height, or 29px */
-
-
-/* White */
-
-color: #FFFFFF;
-
+.footer_div2 {
+  margin-top: 200px;
+  /* display: flex; */
 }
 
-.footer_div3{
-    margin-top: 200px;
-    margin-left: 200px;
-    color: white;
-    display: flex;
-    gap: 20px;
-    font-size: 50px;
+.footer_ul {
+  display: flex;
+  gap: 50px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 180%;
+  /* identical to box height, or 29px */
+
+  /* White */
+
+  color: #ffffff;
+}
+
+.footer_div3 {
+  margin-top: 200px;
+  margin-left: 200px;
+  color: white;
+  display: flex;
+  gap: 20px;
+  font-size: 50px;
 }
