@@ -108,6 +108,8 @@ export default function Header() {
                                 </div>
                         </div>
                     </Col>
+
+                    
                     <Col xs={6}>
                         <div id='images-parent-box'>
                                 <img src={person} alt="" id='img-person' />

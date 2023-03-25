@@ -11,7 +11,6 @@ export default function SectionTwo() {
     const { t } = useTranslation()
 
   return (
-
     <>
     <Container>
         <Row className='mt-5'>
