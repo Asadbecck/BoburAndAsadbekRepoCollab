@@ -38,6 +38,15 @@
         "why":"Why product stories? Learn more",
         "seo":"SEO optimized, high Google work",
         "fast":"Fast loading, low bounce rates",
-        "it":"It is a long established fact that a reader will be distracted by the readable content"
+        "it":"It is a long established fact that a reader will be distracted by the readable content",
+        "footer_h1":"Contact with us.",
+        "footer_p":"More than 50,000+ companies trusted our business",
+        "footer_li1":"About",
+        "footer_li2":"Product",
+        "footer_li3":"Service",
+        "footer_li4":"Contact",
+        "footer_input":"Type your messages..",
+        "footer-button":"Get Started"
+
     }
 }

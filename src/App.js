@@ -1,5 +1,6 @@
 // import i18next from 'i18next'
 // import { useTranslation } from 'react-i18next'
+import Footer from './Components/Footer/Footer'
 import Header from './Components/Header/Header'
 import Section from './Components/Section/Section'
 import SectionOne from './Components/SectionOne/SectionOne'
@@ -19,6 +20,7 @@ export default function App() {
     <Section/>
     <SectionTwo/>
     <SectionOne/>
+    <Footer/>
       {/* <h1>{t("text.text-paraghrap")}</h1>
 
 
