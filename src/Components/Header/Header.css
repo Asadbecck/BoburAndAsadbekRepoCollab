@@ -32,7 +32,7 @@
 }
 
 #polygon{
-    animation: polygon 4s ease-in-out infinite;
+    animation: polygon 5s ease-in-out infinite;
 
 }
 @keyframes polygon {
