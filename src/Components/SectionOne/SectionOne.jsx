@@ -139,6 +139,10 @@ const SectionOne = () => {
         </Col>
       </Row>
     </Container>
+
+    
+      
+
   );
 };
 
