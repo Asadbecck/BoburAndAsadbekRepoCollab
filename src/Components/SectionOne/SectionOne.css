@@ -180,3 +180,49 @@
 .small{
   margin: 7px 0px 0px 20px;
 }
+
+.bexabut{
+  padding-left: 15px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-right: 8px;
+  margin-top: 300px;
+  background: #172656;
+  color: #3A86FF;
+  border-radius: 1px;
+}
+
+.bexahbir{
+  margin-top: 40px;
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 130%;
+color: #FFFFFF;
+}
+
+.bexaptag{
+  color: #868695;
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 180%;
+}
+
+.bexpnimg{
+  width: 550px;
+  margin-top: -180px;
+}
+
+.bexbak{
+  background: #FFBE0B;
+  width: 544.63px;
+height: 564.15px;
+left: 765.37px;
+top: 3678px;
+border-radius: 20px;
+margin-left: 120px;
+margin-top: 220px;
+}
